@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @mo3lii
+- 👋 Hi, I’m Mustafa Soliman
 - 👀 I’m interested in Web development
 - my LinkedIn : https://www.linkedin.com/in/mostafa-ali-462152203/
