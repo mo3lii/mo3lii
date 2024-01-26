@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @mo3lii
-- 👀 I’m interested in Web development , UI/UX
+- 👀 I’m interested in Web development
+- my LinkedIn : https://www.linkedin.com/in/mostafa-ali-462152203/
